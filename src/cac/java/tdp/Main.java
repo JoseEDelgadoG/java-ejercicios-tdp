@@ -15,8 +15,18 @@ public class Main {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args){
+        
+         int N;
+         
+         N = 10;
+         
+         N = N + 77;
+         N = N - 3;
+         N = N * 2;
+         
+         System.out.println("El resultado es: " + N);
+                }             
         
     }
-    
-}
+
